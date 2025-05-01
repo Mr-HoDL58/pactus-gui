@@ -1,7 +1,7 @@
 # 1.62.0+64
 ### [Refactor]
 - Move LoadNodeValidatorAddresses component to the start of the dashboard home screen [#193](https://github.com/pactus-project/pactus-gui/pull/198)
-- Change color of the close button in the Windows toolbar [#193](https://github.com/pactus-project/pactus-gui/pull/198)
+- Change color of the close button in the Windows toolbar. [#193](https://github.com/pactus-project/pactus-gui/pull/198)
 
 # 1.61.0+63
 ### [Fix]
